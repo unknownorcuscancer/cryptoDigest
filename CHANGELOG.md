@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/unknownorcuscancer/cryptoDigest/compare/v1.0.0...v1.1.0) (2025-01-06)
+
+
+### Features
+
+* add new feat ([7acf116](https://github.com/unknownorcuscancer/cryptoDigest/commit/7acf11655931c7e30949c002b61d83234b5b111e))
+
 ## 1.0.0 (2025-01-06)
 
 
